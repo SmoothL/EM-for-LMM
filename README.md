@@ -1,2 +1,2 @@
 # EM-for-LMM
-# EM-for-GMM(the algrithm in notebook is from Canyang's slides)
+# EM-for-GMM(the algorithm in notebook is from Canyang's slides)
